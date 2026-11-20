@@ -55,7 +55,7 @@ Airport fee, trip distance and the standard rate code carry the most signal, fol
 
 ```
 taxi-fare-prediction/
-├── notebooks/
+├── notebook/
 │   └── taxi_fare_prediction.ipynb   # full analysis with outputs
 ├── images/                          # charts used in this README
 ├── requirements.txt
